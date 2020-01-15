@@ -1,5 +1,7 @@
 # REST-API-for-Event-Registration
-Using this API registered users can perfom the following things:
+This app is based Django framework ans uses sqlite3 database
+
+Using this API users can perfom the following things:
 
 1) User need to register first
 
@@ -12,4 +14,6 @@ Using this API registered users can perfom the following things:
 5) User can register for an event by clicking on event name in "Explore Event" tab and pressing "Attend" button
 
 6) User can edit and delete the events created by him in "My Event" tab
+
+
 

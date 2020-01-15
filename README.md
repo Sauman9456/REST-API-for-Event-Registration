@@ -11,7 +11,7 @@ Using this API users can perfom the following things:
 2) Login the app
 ![alt text](https://github.com/Sauman9456/REST-API-for-Event-Registration/blob/master/Images/Login.PNG)
 
-3) After login user can create an event by filling the form on "Creat Event" tab and restric the number of attendees
+3) After login user can create an event by filling the form on "Create Event" tab and restrict the number of attendees
 ![alt text](https://github.com/Sauman9456/REST-API-for-Event-Registration/blob/master/Images/Cevent.PNG)
 
 4) User can  all the view public events in "Explore Event" tab
